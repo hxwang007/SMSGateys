@@ -1,0 +1,1 @@
+用SMSLib实现java调用短信猫发短信,并做成webservice服务。并将此服务做成windows后台服务。供客户端调用
